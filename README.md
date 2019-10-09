@@ -1,5 +1,5 @@
-Synthetic Workflow Generators
-=============================
+Synthetic Workflow Generator
+============================
 
 This repository contains several synthetic workflow generators that can be used
 to evaluate scheduling and provisioning algorithms for scientific workflow
